@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 保存员工信息 -->
+<emplies>
+	<employ id="1">
+		<name>tom</name>
+		<age>20</age>
+		<dname>it</dname>
+		<gender>男</gender>
+		<money>100</money>
+	</employ>
+	
+	<employ id="2">
+		<name>tom2</name>
+		<age>20</age>
+		<dname>it2</dname>
+		<gender>男</gender>
+		<money>100</money>
+	</employ>
+	
+	<employ id="3">
+		<name>tom3</name>
+		<age>20</age>
+		<dname>it3</dname>
+		<gender>男</gender>
+		<money>100</money>
+	</employ>
+	
+	<employ id="4">
+		<name>tom4</name>
+		<age>20</age>
+		<dname>it4</dname>
+		<gender>男</gender>
+		<money>100</money>
+	</employ>
+	
+	<employ id="5">
+		<name>tom5</name>
+		<age>20</age>
+		<dname>it5</dname>
+		<gender>男</gender>
+		<money>100</money>
+	</employ>
+</emplies>
